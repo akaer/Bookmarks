@@ -2,5 +2,5 @@
 
 ## TV / Mediathek
 
-  * [ARD Livestream](http://live.daserste.de/)
+  * [ARD Livestream](http://live.daserste.de/){:target="_blank"}
   
