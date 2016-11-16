@@ -5,6 +5,8 @@
   * [ARD Livestream](http://live.daserste.de/)
   * [ARD ONE Livestream](http://one.ard.de/livestream.jsp)
   * [ZDF Livestream](https://live.zdf.de/start)
+  * [ZDF Neo Livestream](https://www.zdf.de/sender/zdfneo/zdfneo-live-beitrag-100.html)
+  * [ZDF Info Livestream](https://www.zdf.de/sender/zdfinfo/zdfinfo-live-beitrag-100.html)
   * [ARD Tagesschau in 100 Sekunden](http://www.tagesschau.de/100sekunden)
   * [Kika](http://www.kika.de/videos/livestream/livestream110.html)
   * [BR Livestream](https://www.br.de/mediathek/video/index.html)
