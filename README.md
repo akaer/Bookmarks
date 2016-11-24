@@ -25,6 +25,10 @@
    * [Ascii cinema](https://asciinema.org/)
    * [.Net RegEx Tester](http://www.regexstorm.net/)
 
+## Help / Tutorial
+
+  * [Tutorials](https://hackr.io/)
+
 ## Sysadmin
 
   * [Exchange Server and Update Rollup Build Numbers](http://social.technet.microsoft.com/wiki/contents/articles/240.exchange-server-and-update-rollup-build-numbers.aspx#i)
