@@ -1,5 +1,9 @@
 # Various bookmarks
 
+## Awesome list of lists
+
+  * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
 ## TV / Mediathek
 
   * [ARD Livestream](http://live.daserste.de/)
