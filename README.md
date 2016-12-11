@@ -4,6 +4,10 @@
 
   * [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
 
+## News
+
+  * [Daily .NET software development link](http://blog.cwa.me.uk/)
+
 ## TV / Mediathek
 
   * [ARD Livestream](http://live.daserste.de/)
