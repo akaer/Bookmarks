@@ -6,7 +6,7 @@
 
 ## News
 
-  * [Daily .NET software development link](http://blog.cwa.me.uk/)
+  * [Daily .NET software development link](http://blog.cwa.me.uk)
 
 ## TV / Mediathek
 
