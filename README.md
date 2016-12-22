@@ -36,6 +36,7 @@
 ## Help / Tutorial
 
   * [Tutorials](https://hackr.io/)
+  * [Computertechnik-Schroeder.de](https://ctaas.de/)
 
 ## Sysadmin
 
