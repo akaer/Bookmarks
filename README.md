@@ -34,6 +34,7 @@
    * [.Net RegEx Tester](http://www.regexstorm.net/)
    * [Online Coding Evironment #1](https://repl.it/)
    * [Online Coding Evironment #2](https://ideone.com)
+   * [Download (sub)directories from GitHub](https://minhaskamal.github.io/DownGit/#/home)
 
 ## Help / Tutorial
 
