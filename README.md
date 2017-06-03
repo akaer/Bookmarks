@@ -36,7 +36,7 @@
    * [Online Coding Evironment #2](https://ideone.com)
    * [Download (sub)directories from GitHub](https://minhaskamal.github.io/DownGit/#/home)
    * [Compare C++ Compilers](https://godbolt.org/)
-   * [Online SQL Editor](http://sqlfiddle.com])
+   * [Online SQL Editor](http://sqlfiddle.com)
    * [Radsport: Ritzelrechner](https://www.j-berkemeier.de/Ritzelrechner.html)
    * [Radsport: Diverse Berechnungen](http://www.kreuzotter.de/index.htm)
 
