@@ -51,6 +51,7 @@
   * [Exchange Server and Update Rollup Build Numbers](http://social.technet.microsoft.com/wiki/contents/articles/240.exchange-server-and-update-rollup-build-numbers.aspx#i)
   * [VMware ESXi Patch Tracker](https://esxi-patches.v-front.de/)
   * [SQL Server Patch Overview](http://sqlserverbuilds.blogspot.de/)
+  * [Sharepoint Updates](https://sharepointupdates.com/Patches)
 
 ## Security
 
