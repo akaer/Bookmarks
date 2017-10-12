@@ -52,6 +52,7 @@
   * [VMware ESXi Patch Tracker](https://esxi-patches.v-front.de/)
   * [SQL Server Patch Overview](http://sqlserverbuilds.blogspot.de/)
   * [Sharepoint Updates](https://sharepointupdates.com/Patches)
+  * [Microsoft Update Catalog](http://www.catalog.update.microsoft.com/Search.aspx)
 
 ## Security
 
