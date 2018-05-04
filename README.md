@@ -63,4 +63,4 @@
 
 ## Software testing
 
-  * [Testing Distributed Systems](ttps://asatarin.github.io/testing-distributed-systems/)
+  * [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
