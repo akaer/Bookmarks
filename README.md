@@ -40,6 +40,8 @@
    * [Radsport: Ritzelrechner](https://www.j-berkemeier.de/Ritzelrechner.html)
    * [Radsport: Diverse Berechnungen](http://www.kreuzotter.de/index.htm)
    * [GUI prototyping tool](http://pencil.evolus.vn/)
+   * [REST Api Faker](https://reqres.in/)
+   * [Postwoman](https://liyasthomas.github.io/postwoman/)
 
 ## Help / Tutorial
 
