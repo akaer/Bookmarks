@@ -59,6 +59,7 @@
 
 ## Security
 
+  * [Kuketz](https://www.kuketz-blog.de)
   * [Better Crypto](https://bettercrypto.org/)
   * [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
   * [Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/)
